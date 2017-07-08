@@ -1,4 +1,4 @@
-## This code has provides two functions, makeCacheMatrix and cacheSolve.
+## This code has two functions, makeCacheMatrix and cacheSolve.
 ##
 ## The purpose of this code is to calculate the Inverse of a given matrix and
 ## store the result in the cache. 
